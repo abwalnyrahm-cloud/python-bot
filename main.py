@@ -1,1 +1,1 @@
-print("Hello from Telegram Bot")
+print("Bot is running...")
